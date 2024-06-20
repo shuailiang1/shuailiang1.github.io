@@ -41,7 +41,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/dinzhen.webp',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/星空.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '帅亮',
   bio: '21岁，是学生。',
   links: [
